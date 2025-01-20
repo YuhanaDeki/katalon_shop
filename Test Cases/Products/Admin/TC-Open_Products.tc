@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to open to products page for create fetch edit and delete data</description>
+   <name>TC-Open_Products</name>
+   <tag>products</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f5c575f-503a-415e-b17a-bf194102b1c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Role</name>
+   <tag></tag>
+   <elementGuidId>97efc463-1e65-4713-a780-1d997a4d9c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pills-profile-tab&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pills-profile-tab&quot;]</value>
+      <webElementGuid>8df69bf0-7687-4fea-8092-85f25a03045c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

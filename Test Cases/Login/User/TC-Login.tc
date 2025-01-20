@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for login in User role</description>
+   <name>TC-Login</name>
+   <tag>login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b63fc1ac-5bf5-4ac3-a469-ced689e6b642</testCaseGuid>
+</TestCaseEntity>

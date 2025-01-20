@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Home</name>
+   <tag></tag>
+   <elementGuidId>45957f13-c8a8-421c-82c1-e44a2fa36605</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href=&quot;/home&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href=&quot;/home&quot;]</value>
+      <webElementGuid>4c4464d8-fe2e-48c9-9267-2a07dce28dfe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

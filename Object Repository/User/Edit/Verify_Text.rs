@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Text</name>
+   <tag></tag>
+   <elementGuidId>35178dc2-eac8-4660-ae1d-b9be4a6a01fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tableBody&quot;]/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tableBody&quot;]/tr/td[3]</value>
+      <webElementGuid>9d14c4ee-5f5f-4a36-8826-62a622ab8695</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Text_Username</name>
+   <tag></tag>
+   <elementGuidId>a80e95ea-2097-4739-ac8e-d343a368c473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[@id=&quot;text-check&quot;]//*[@class=&quot;text-success&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[@id=&quot;text-check&quot;]//*[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>627b2326-cd96-45d4-891c-1f6c4ab2ed42</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

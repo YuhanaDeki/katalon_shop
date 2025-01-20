@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DOM_Edit_Category</name>
+   <tag></tag>
+   <elementGuidId>6a68a5cc-7289-4c45-b981-0c5b7541a34e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;editProduct1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;editProduct1&quot;]</value>
+      <webElementGuid>bce9abfc-b151-4650-920a-98fc071d0477</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

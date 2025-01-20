@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Bank</name>
+   <tag></tag>
+   <elementGuidId>26ef881b-69fe-40bf-a5ae-7d8af6328335</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-bs-target=&quot;#pills-bank&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bs-target=&quot;#pills-bank&quot;]</value>
+      <webElementGuid>8c98ad43-b9e0-4bae-898d-2db90d000075</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

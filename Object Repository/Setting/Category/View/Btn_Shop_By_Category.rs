@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Shop_By_Category</name>
+   <tag></tag>
+   <elementGuidId>fa7f7727-7c42-4fc2-9761-2e02d587c994</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;shop-category&quot;]//button[@value=&quot;${dynamicValue}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;shop-category&quot;]//button[@value=&quot;${dynamicValue}&quot;]</value>
+      <webElementGuid>dadddb15-db66-4a5f-994d-7ebeac2eec46</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

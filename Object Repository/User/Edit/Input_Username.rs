@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Username</name>
+   <tag></tag>
+   <elementGuidId>31f12ff7-12ef-4132-920a-fb92a47b5c90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;editFloatingInput1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;editFloatingInput1&quot;]</value>
+      <webElementGuid>891fa52f-d175-476d-8fc1-eaec743d20ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

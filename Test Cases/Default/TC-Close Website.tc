@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for close browser</description>
+   <name>TC-Close Website</name>
+   <tag>default</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0a8078b-7f9e-4e5a-9b7f-a141682960d9</testCaseGuid>
+</TestCaseEntity>

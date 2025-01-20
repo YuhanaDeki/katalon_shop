@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role  use to open Users page for manage users data</description>
+   <name>TC-Btn_Users</name>
+   <tag>users</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b89bec4f-c853-400b-81af-9463e0b7feb3</testCaseGuid>
+</TestCaseEntity>

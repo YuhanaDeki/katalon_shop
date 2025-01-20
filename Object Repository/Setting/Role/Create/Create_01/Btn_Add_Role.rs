@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Add_Role</name>
+   <tag></tag>
+   <elementGuidId>33478c92-77c4-43a2-970f-30549914b935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pills-profile&quot;]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pills-profile&quot;]/button[1]</value>
+      <webElementGuid>766d9f0b-7304-4404-94d4-544cd714d66f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

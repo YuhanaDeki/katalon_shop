@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for User role use to after Officer role confirm order</description>
+   <name>TC-Check_Order</name>
+   <tag>orders</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>483a8efc-9274-4942-958c-89637400f547</testCaseGuid>
+</TestCaseEntity>

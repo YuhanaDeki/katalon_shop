@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to edit products data</description>
+   <name>TC-Edit</name>
+   <tag>products</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b5e8c22-d927-460e-85a9-5ada3ad1b1e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Edit</name>
+   <tag></tag>
+   <elementGuidId>9febbf9d-0d18-4a5d-a538-1105b94c4cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-bs-target=&quot;#editProduct1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bs-target=&quot;#editProduct1&quot;]</value>
+      <webElementGuid>371427af-4f9d-4ca0-98bf-c89d935d3d45</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

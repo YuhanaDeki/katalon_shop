@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Password_Verify_Same</name>
+   <tag></tag>
+   <elementGuidId>c8007e36-021a-4ea8-8fdc-e605320e0b94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[@id=&quot;text-show&quot;]//*[@class=&quot;text-success&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[@id=&quot;text-show&quot;]//*[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>604c8af8-6c8b-474f-8fdd-f03443a91f17</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

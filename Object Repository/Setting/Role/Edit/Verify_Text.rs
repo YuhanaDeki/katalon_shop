@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Text</name>
+   <tag></tag>
+   <elementGuidId>08171f5b-41da-4ad5-b9d9-265382ddd068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tableBody-Role&quot;]/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tableBody-Role&quot;]/tr/td[3]</value>
+      <webElementGuid>3b646442-d821-49a5-9528-0c96365fc02a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

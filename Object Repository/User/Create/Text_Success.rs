@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_Success</name>
+   <tag></tag>
+   <elementGuidId>e233239d-2392-4ad6-a36c-f3d2ceca7a0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[@id=&quot;text-check&quot;]//*[@class=&quot;text-success&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[@id=&quot;text-check&quot;]//*[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>526db0ad-0541-4652-a026-dad19768aa3f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

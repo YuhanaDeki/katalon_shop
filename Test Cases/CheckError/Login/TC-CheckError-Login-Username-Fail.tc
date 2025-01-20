@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CheckError-Login-Username-Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cb5284d-7b8b-4b56-afee-01290f0d1039</testCaseGuid>
+</TestCaseEntity>

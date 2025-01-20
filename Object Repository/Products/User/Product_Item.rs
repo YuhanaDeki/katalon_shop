@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Product_Item</name>
+   <tag></tag>
+   <elementGuidId>df8cb5af-b4e4-4c48-be21-37ddd059c26d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;productGrid&quot;]//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;productGrid&quot;]//a</value>
+      <webElementGuid>b840bbaf-1a73-4f87-b43f-1c5df8644b20</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

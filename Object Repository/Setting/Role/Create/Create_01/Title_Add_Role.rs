@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_Add_Role</name>
+   <tag></tag>
+   <elementGuidId>822d1248-90c7-4da2-8b38-4234bf35729a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;staticBackdropLabelRole&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;staticBackdropLabelRole&quot;]</value>
+      <webElementGuid>2d8a7d02-bf2b-4e72-8fe8-15274808dbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Setting/Role/Create/DOM_Add_Role</value>
+      <webElementGuid>3dca1c3f-cbfe-4759-9a25-fe18ab9dd32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6a17f0e9-9fdd-49c3-9730-242d9101f263</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

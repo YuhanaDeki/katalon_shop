@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Search</name>
+   <tag></tag>
+   <elementGuidId>153f797a-537b-4a42-9672-4ac891d24ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='searchInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='searchInput']</value>
+      <webElementGuid>9fde3f0a-54ab-4ecd-8e19-e59eca4dbf60</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for User role check out order for payment after select product in website</description>
+   <name>TC-CheckOut</name>
+   <tag>cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7713ca24-613c-40c6-a017-e5df7240b278</testCaseGuid>
+</TestCaseEntity>

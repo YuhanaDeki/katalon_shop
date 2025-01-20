@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to create users data</description>
+   <name>TC-Create</name>
+   <tag>users</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cc2a36d-d1ab-4644-8813-664124daa953</testCaseGuid>
+</TestCaseEntity>

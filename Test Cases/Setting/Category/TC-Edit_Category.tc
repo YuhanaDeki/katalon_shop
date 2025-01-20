@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to edit category data</description>
+   <name>TC-Edit_Category</name>
+   <tag>category</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d1eb4e5-03b2-4ec3-92fb-99843bf8742f</testCaseGuid>
+</TestCaseEntity>

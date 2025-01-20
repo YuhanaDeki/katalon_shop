@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to edit bank data</description>
+   <name>TC-Edit_Bank</name>
+   <tag>bank</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4bd8c747-31d6-40e8-aac8-8a6cd8ea4618</testCaseGuid>
+</TestCaseEntity>

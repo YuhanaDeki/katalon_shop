@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Option</name>
+   <tag></tag>
+   <elementGuidId>f09fbf45-4846-4165-8a57-b345454b3983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@action=&quot;/back/setting/category/edit&quot;]//select[@id=&quot;category-status&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@action=&quot;/back/setting/category/edit&quot;]//select[@id=&quot;category-status&quot;]</value>
+      <webElementGuid>72ad9734-e15d-4f85-8891-ba4f35e47168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Setting/Category/Edit/DOM_Edit_Category</value>
+      <webElementGuid>6ce1f418-d55e-49cc-94f7-194c5b98fc92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7d19b8bc-b980-4e80-905f-e90417eb560f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

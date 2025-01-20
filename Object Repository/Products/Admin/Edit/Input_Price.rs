@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Price</name>
+   <tag></tag>
+   <elementGuidId>6536fd12-5c18-48b5-97b0-3c17e0869495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-price&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-price&quot;]</value>
+      <webElementGuid>1a91ce45-d564-444c-af4d-53853d4e71dc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

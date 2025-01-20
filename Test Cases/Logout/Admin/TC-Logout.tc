@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for logout in Admin and Officer role</description>
+   <name>TC-Logout</name>
+   <tag>logout</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae521efe-11f8-4882-8229-b6c92718c1fe</testCaseGuid>
+</TestCaseEntity>

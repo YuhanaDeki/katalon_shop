@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Left_Menu</name>
+   <tag></tag>
+   <elementGuidId>b369ee9b-dbb2-476f-8273-f8a922e5cee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;menuTop&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;menuTop&quot;]</value>
+      <webElementGuid>bd20a6f9-deb5-429d-a7e4-34b1da117a1b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table_Category_Name</name>
+   <tag></tag>
+   <elementGuidId>aa1fb76d-06ea-470f-ad08-6cc1b4f1d724</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tableBody&quot;]/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tableBody&quot;]/tr/td[3]</value>
+      <webElementGuid>60c2f1e9-1eb7-45b7-9c42-33effc50248d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

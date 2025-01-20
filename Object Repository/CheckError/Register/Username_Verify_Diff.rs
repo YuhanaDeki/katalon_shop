@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Username_Verify_Diff</name>
+   <tag></tag>
+   <elementGuidId>778df633-8d5a-4254-9890-20764c3b656c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[@id=&quot;text-check&quot;]//*[@class=&quot;text-danger&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[@id=&quot;text-check&quot;]//*[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>acb16b1f-a09d-4757-9773-6439e252e1be</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

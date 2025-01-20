@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Product_Des</name>
+   <tag></tag>
+   <elementGuidId>9b972652-3707-4f16-a8a5-9cee307550e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-description&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-description&quot;]</value>
+      <webElementGuid>bc7c010b-addb-4577-9ea6-cc504cd05348</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

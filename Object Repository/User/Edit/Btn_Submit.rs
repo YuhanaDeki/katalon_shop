@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Submit</name>
+   <tag></tag>
+   <elementGuidId>8c92decb-2e7c-4c8b-8ab1-e7ae4ea9a85d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/user/edit&quot;]//*[@name=&quot;user_submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/user/edit&quot;]//*[@name=&quot;user_submit&quot;]</value>
+      <webElementGuid>37d04209-ec1f-4aeb-89eb-729e43b2fdfe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

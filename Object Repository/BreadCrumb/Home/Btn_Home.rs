@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Home</name>
+   <tag></tag>
+   <elementGuidId>80c55df8-735e-4b7c-938c-b7c86ad8c2be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class=&quot;breadcrumb-item&quot;]//*[@href=&quot;/back/dashboard&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class=&quot;breadcrumb-item&quot;]//*[@href=&quot;/back/dashboard&quot;]</value>
+      <webElementGuid>1feb8b41-80b2-4cdf-a0f4-999049148c96</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

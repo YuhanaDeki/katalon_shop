@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Text_Order</name>
+   <tag></tag>
+   <elementGuidId>b2471566-3bcb-4dd5-b675-20becab86815</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tableBody&quot;]/tr[1]/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tableBody&quot;]/tr[1]/td[5]</value>
+      <webElementGuid>ef9890e9-c99d-46e8-91a8-a1317f886ff1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

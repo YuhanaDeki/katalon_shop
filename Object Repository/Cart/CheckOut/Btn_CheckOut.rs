@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_CheckOut</name>
+   <tag></tag>
+   <elementGuidId>8c0a3ead-506f-42f2-9f0f-91004edb9ace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href=&quot;/payment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href=&quot;/payment&quot;]</value>
+      <webElementGuid>041f6c0d-e8a5-42cd-9f38-37d1b6cfacc3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Bank_Initial_Name</name>
+   <tag></tag>
+   <elementGuidId>d4a89f72-89d0-40ea-a19c-3b547cc51339</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/setting/bank/edit&quot;]//*[@name=&quot;bank-initial-name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/setting/bank/edit&quot;]//*[@name=&quot;bank-initial-name&quot;]</value>
+      <webElementGuid>daafdab8-118a-4c67-93fd-45b7f593bd1d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

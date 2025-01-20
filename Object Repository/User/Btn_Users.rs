@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Users</name>
+   <tag></tag>
+   <elementGuidId>1030d8cb-cc72-405a-acac-f28dac8fab27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;card-body&quot;]//*[@href=&quot;/back/user&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;card-body&quot;]//*[@href=&quot;/back/user&quot;]</value>
+      <webElementGuid>080f33a4-0781-4a94-a78e-57516ee15ed5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

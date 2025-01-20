@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Add_User</name>
+   <tag></tag>
+   <elementGuidId>fc4d812b-d82a-40ef-a619-e7e235483802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-bs-target=&quot;#staticBackdrop&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bs-target=&quot;#staticBackdrop&quot;]</value>
+      <webElementGuid>795958ad-6003-4fba-8c3d-142df8311ddd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

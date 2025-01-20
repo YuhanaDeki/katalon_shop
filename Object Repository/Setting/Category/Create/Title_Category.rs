@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_Category</name>
+   <tag></tag>
+   <elementGuidId>8397e436-f6fe-4c85-8e4c-51a686e1ed94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;staticBackdropLabel&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;staticBackdropLabel&quot;]</value>
+      <webElementGuid>80905a2d-ac7f-4023-af93-5ef5e29ce46a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

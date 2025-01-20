@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for User role use to select product and result order before payment</description>
+   <name>TC-Select-Product</name>
+   <tag>products</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b1e7b38-67f5-4da7-81d8-120270b66a94</testCaseGuid>
+</TestCaseEntity>

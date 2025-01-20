@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Add_Category</name>
+   <tag></tag>
+   <elementGuidId>e0647f11-d6f5-4214-849e-b429d8e1bfcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-bs-target=&quot;#staticBackdrop&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bs-target=&quot;#staticBackdrop&quot;]</value>
+      <webElementGuid>3badef3f-9fdd-46e4-a0dd-9203cf729574</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

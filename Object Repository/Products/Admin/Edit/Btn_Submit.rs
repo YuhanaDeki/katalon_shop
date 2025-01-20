@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Submit</name>
+   <tag></tag>
+   <elementGuidId>b79cf4ec-cc26-4413-b8b9-65282c72324b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product_submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product_submit&quot;]</value>
+      <webElementGuid>5c448c69-ced8-4234-b8d4-e240f569ea19</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

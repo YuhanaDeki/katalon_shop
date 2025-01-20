@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Orders</name>
+   <tag></tag>
+   <elementGuidId>4d09ea0e-6e46-4cc0-96c4-4ceb7e466cd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;card-body&quot;]//*[@href=&quot;/back/order&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;card-body&quot;]//*[@href=&quot;/back/order&quot;]</value>
+      <webElementGuid>2feb7293-f396-4dc2-a3d7-4120e9e392b1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

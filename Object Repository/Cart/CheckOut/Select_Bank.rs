@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Bank</name>
+   <tag></tag>
+   <elementGuidId>012ee039-15f7-4d95-a0db-5cad3e125544</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;selct-bank&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;selct-bank&quot;]</value>
+      <webElementGuid>1b2223d1-30ee-4888-ac40-4d48916dafcf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

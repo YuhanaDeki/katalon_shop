@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Left_Menu</name>
+   <tag></tag>
+   <elementGuidId>801e8bf6-2ac3-4755-a903-5b4fea3ad858</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-bs-target=&quot;#offcanvasWithBothOptions&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bs-target=&quot;#offcanvasWithBothOptions&quot;]</value>
+      <webElementGuid>7db785b5-4970-4a97-b221-9075fe4f40e4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

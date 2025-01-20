@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Add</name>
+   <tag></tag>
+   <elementGuidId>e0058144-fcc3-4f19-8fdb-1a7139f3ac38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-bs-target=&quot;#staticBackdropBank&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bs-target=&quot;#staticBackdropBank&quot;]</value>
+      <webElementGuid>267d9c46-d6c8-40ac-a3d9-458594a2ee1b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DOM_Add_Role</name>
+   <tag></tag>
+   <elementGuidId>6e1cf237-9fab-4830-8095-cab2450b5416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;staticBackdropRole&quot;]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;staticBackdropRole&quot;]/div/div</value>
+      <webElementGuid>04a28a0d-a24a-4807-800d-b672c028e32a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

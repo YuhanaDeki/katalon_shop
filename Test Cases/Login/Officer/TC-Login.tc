@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for login in Officer role</description>
+   <name>TC-Login</name>
+   <tag>login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>866eaac8-713b-497d-bb25-9d6696bbe2c2</testCaseGuid>
+</TestCaseEntity>

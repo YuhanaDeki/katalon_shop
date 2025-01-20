@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Category</name>
+   <tag></tag>
+   <elementGuidId>f018e50c-5a5d-4c72-a1b7-0de496cf2ab9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-category&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-category&quot;]</value>
+      <webElementGuid>889ce403-7100-4181-a69a-041d8bdedff9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

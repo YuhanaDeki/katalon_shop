@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Logout</name>
+   <tag></tag>
+   <elementGuidId>9f33c43f-b4c4-4ff1-b4b5-0b9b70f147e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;offcanvasWithBothOptions&quot;]/div[2]/a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;offcanvasWithBothOptions&quot;]/div[2]/a[6]</value>
+      <webElementGuid>a67308db-0a73-40e3-b7ef-74301f294c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Setting/Category/View/Dom_Left_Menu</value>
+      <webElementGuid>b0921ccc-7457-4b40-ba4b-33c2c547ea30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4e1a3fbf-02e2-4cea-aa47-345c403cb20a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Submit</name>
+   <tag></tag>
+   <elementGuidId>69f39be6-e634-4222-8c07-2589783d7e77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name=&quot;category-edit&quot;][count(. | //*[@ref_element = 'Object Repository/Setting/Category/Edit/DOM_Edit_Category' and @ref_element_is_shadow_root = 'true']) = count(//*[@ref_element = 'Object Repository/Setting/Category/Edit/DOM_Edit_Category' and @ref_element_is_shadow_root = 'true'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name=&quot;category-edit&quot;]</value>
+      <webElementGuid>83224c51-62da-43d2-8eac-ab935b24d1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Setting/Category/Edit/DOM_Edit_Category</value>
+      <webElementGuid>73f36b69-106c-455d-ae77-4d8c5680dcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cbcc62bc-6db3-4f9b-84c7-845ccdcb3921</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

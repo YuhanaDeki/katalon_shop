@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>not use but i thing to future can work</description>
+   <name>TC-View_On_Page</name>
+   <tag>category</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f529ea3-f6a3-44a8-b35a-5c49f1fbc895</testCaseGuid>
+</TestCaseEntity>

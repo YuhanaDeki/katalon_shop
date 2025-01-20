@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role  use to open Setting page for manage category role and bank data</description>
+   <name>TC-_Btn_Setting</name>
+   <tag>category,role,bank</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b27386c-2438-4373-b4f1-fcc5067e56bc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Register</name>
+   <tag></tag>
+   <elementGuidId>82439b0f-c72b-4247-b0a3-6d114a58f7bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href=&quot;/register&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href=&quot;/register&quot;]</value>
+      <webElementGuid>6e5dd430-2c8f-4d46-8025-be547eed460a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

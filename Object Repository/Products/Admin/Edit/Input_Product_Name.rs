@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Product_Name</name>
+   <tag></tag>
+   <elementGuidId>7ec614a6-edab-42b3-bfac-90c5b3598688</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/product/edit&quot;]//*[@name=&quot;product-name&quot;]</value>
+      <webElementGuid>d2c0822d-6513-4124-9868-98ec4fff6aa6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

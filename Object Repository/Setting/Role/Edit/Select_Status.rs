@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Status</name>
+   <tag></tag>
+   <elementGuidId>583e1f33-f202-48f5-a192-44a29f48d4bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/setting/role/edit&quot;]//*[@id=&quot;role-status&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/setting/role/edit&quot;]//*[@id=&quot;role-status&quot;]</value>
+      <webElementGuid>679b91dd-3b59-4596-b064-90c5808e9c44</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

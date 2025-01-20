@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Text_Re_Password</name>
+   <tag></tag>
+   <elementGuidId>b93c4749-964d-4895-9e4c-ef7700ec1923</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[@id=&quot;text-show&quot;]//*[@class=&quot;text-success&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[@id=&quot;text-show&quot;]//*[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>1a351bc9-63c7-4714-ab68-8aee79c270d2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Re_Password</name>
+   <tag></tag>
+   <elementGuidId>56c35651-4d27-4f6c-8e3e-8667d03e72a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;re-user-password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;re-user-password&quot;]</value>
+      <webElementGuid>4646cc8f-d672-4b88-8ca8-74a91c23baa1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

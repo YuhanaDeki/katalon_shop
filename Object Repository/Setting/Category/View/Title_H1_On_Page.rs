@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_H1_On_Page</name>
+   <tag></tag>
+   <elementGuidId>9af7ab8f-4c9a-4404-bf44-d3e11cccd11e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/div/h1</value>
+      <webElementGuid>866dc71c-56ca-497c-94c3-ebd595a52bea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

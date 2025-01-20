@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to delete role data</description>
+   <name>TC-Delete_Role</name>
+   <tag>role</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a121f9a-e4b3-43a7-8730-f3c92aa0b52e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Submit</name>
+   <tag></tag>
+   <elementGuidId>2a3579a9-5a5a-4582-91d2-3f9199ffcf88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name=&quot;role-add&quot;][count(. | //*[@ref_element = 'Object Repository/Setting/Role/Create/DOM_Add_Role' and @ref_element_is_shadow_root = 'true']) = count(//*[@ref_element = 'Object Repository/Setting/Role/Create/DOM_Add_Role' and @ref_element_is_shadow_root = 'true'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name=&quot;role-add&quot;]</value>
+      <webElementGuid>a19951c8-dad1-4d89-a9f0-300bccaf85fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Setting/Role/Create/Create_01/DOM_Add_Role</value>
+      <webElementGuid>c2636ea5-cbcb-4923-872c-eefa21a04b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>71c16082-767e-4f30-bb86-912134535ce5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

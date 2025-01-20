@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Status</name>
+   <tag></tag>
+   <elementGuidId>8f231c23-ba27-4557-a7dd-f56bb6e04ac0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/setting/bank/edit&quot;]//*[@name=&quot;bank-status&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/setting/bank/edit&quot;]//*[@name=&quot;bank-status&quot;]</value>
+      <webElementGuid>ec375ce6-3cf2-4331-916b-a16a173f7dbe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

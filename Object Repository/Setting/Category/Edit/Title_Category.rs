@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_Category</name>
+   <tag></tag>
+   <elementGuidId>8c5bfd24-8d5f-4699-87f5-40611f9d9d9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;editProductLabel1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;editProductLabel1&quot;]</value>
+      <webElementGuid>bd3b68e6-6aa9-4c98-9d2f-7e30a7cdc5c8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

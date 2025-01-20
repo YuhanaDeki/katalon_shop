@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for User role use to register user data for login and fix role is user</description>
+   <name>TC-Register</name>
+   <tag>register,user</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1390cf03-dae0-4e37-a218-1df4e111cd6c</testCaseGuid>
+</TestCaseEntity>

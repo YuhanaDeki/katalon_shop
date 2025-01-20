@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Role_Name</name>
+   <tag></tag>
+   <elementGuidId>3fa57b60-58db-4f13-81e9-330c83c9f12b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@action=&quot;/back/setting/role/edit&quot;]//*[@id=&quot;role-name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@action=&quot;/back/setting/role/edit&quot;]//*[@id=&quot;role-name&quot;]</value>
+      <webElementGuid>785c0310-1043-4feb-be4b-df0d6970e5d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

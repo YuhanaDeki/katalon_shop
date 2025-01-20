@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for user role use to check error username is same in local storage</description>
+   <name>TC-Register-Username-Diff</name>
+   <tag>register</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08a7445c-2b18-4214-8beb-cf995bcae8e6</testCaseGuid>
+</TestCaseEntity>

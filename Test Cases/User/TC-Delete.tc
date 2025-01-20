@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for Admin and Officer role use to delete users data</description>
+   <name>TC-Delete</name>
+   <tag>users</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf93c9b2-a09f-4967-9b99-fe9b84ac7218</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for logout in User role</description>
+   <name>TC-Logout</name>
+   <tag>logout</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>241a833b-15c8-499a-b18d-675dad54e6bd</testCaseGuid>
+</TestCaseEntity>

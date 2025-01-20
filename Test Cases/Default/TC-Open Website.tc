@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for open browser to url in profile</description>
+   <name>TC-Open Website</name>
+   <tag>default</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b77f5f28-143d-4c85-a4b7-622fffb55096</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97a19f77-143c-4da0-b85a-4a37ba022f21</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.ck_url</defaultValue>
+      <description></description>
+      <id>97a19f77-143c-4da0-b85a-4a37ba022f21</id>
+      <masked>false</masked>
+      <name>ck_url</name>
+   </variable>
+</TestCaseEntity>
